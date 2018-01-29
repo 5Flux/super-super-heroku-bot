@@ -92,4 +92,4 @@ async def bank(ctx):
 	await bot.say('{} : **{}**'.format(account.mention,currency[account.id]))
 
 
-bot.run('Mzk3MjA2MzcyOTg4NzQ3Nzg2.DSsm1Q.Mf73TLo8nsy4dGq46lWN5OOp5r0')
+bot.run('BOT_TOKEN')
